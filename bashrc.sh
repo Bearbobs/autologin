@@ -12,7 +12,7 @@ import ssl
 
 host_url = 'https://172.16.1.1:8090/httpclient.html'
 username = ['be1050616' , 'be1044416']
-password = ['@344','anuj']
+password = ['xxx','xxx']
 
 def user_validity(num):
     try:
