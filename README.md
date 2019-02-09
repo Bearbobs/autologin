@@ -1,2 +1,4 @@
 # autologin
-autologin script using python with bash script integrated
+autologin script using python with integrated
+bash file
+batch file
